@@ -8,4 +8,4 @@ while i < n - 1:
     num_2 = fib_summ
     i = i + 1
     print(fib_summ)
-print("Последнее число последовательности: ", fib_summ)
+print(f"Последнее число последовательности: {fib_summ}")
