@@ -10,3 +10,4 @@ for i in range(1,101):
         a.append(i)
 b = a[:5]
 print(a, b, sep='\n')
+
