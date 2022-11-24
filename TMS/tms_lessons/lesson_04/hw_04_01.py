@@ -4,4 +4,3 @@
 """
 new_list = [(1, 2), (3, 4), (5, 6)]
 print([sum(tup) for tup in new_list])
-

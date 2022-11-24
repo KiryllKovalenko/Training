@@ -19,3 +19,4 @@ while a==1:
         print(f"Что желаете {name}?")
     else:
         print(f"{name}, вы лжете - столько не живут")
+

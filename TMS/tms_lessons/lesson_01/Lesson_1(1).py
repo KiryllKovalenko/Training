@@ -6,3 +6,4 @@ summ4 = a**b
 summ5 = a % b
 summ6 = a // b
 print(summ1, summ2, summ3, summ4, summ5, summ6, sep='\n' )
+
